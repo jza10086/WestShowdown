@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_Hans\n"
+
+msgid "西部牛仔对决"
+msgstr "西部牛仔对决"
+
+msgid "3D 西部牛仔对决占位模板，尚未实现玩法。"
+msgstr "3D 西部牛仔对决占位模板，尚未实现玩法。"

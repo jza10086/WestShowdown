@@ -1,0 +1,6 @@
+.godot/
+*.tmp
+/tmp/
+/config/*.json
+/config/*.json.bak
+/config/*.json.pending

@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "core_api_major": 4,
+  "package_version": "0.1.0",
+  "id": "godot_party_default_west_showdown",
+  "name": "西部牛仔对决",
+  "kind": "minigame",
+  "introduction": "3D 西部牛仔对决占位模板，尚未实现玩法。",
+  "entry": "game.tscn",
+  "player_counts": [2, 3, 4, 5, 6, 7, 8],
+  "playable": false,
+  "adapters": [],
+  "localization": {
+    "supported_locales": ["zh_Hans"],
+    "fallback_locale": "zh_Hans",
+    "translations": {
+      "zh_Hans": "i18n/zh_Hans.po"
+    }
+  }
+}
