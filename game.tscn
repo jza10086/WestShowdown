@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://dx0p54ret8dk5"]
 
+[ext_resource type="Script" path="res://games/minigame/gp_west_duel/entry_rules.gd" id="entry_rules"]
+
 [node name="WestShowdown" type="Node3D" unique_id=1015398716]
+script = ExtResource("entry_rules")

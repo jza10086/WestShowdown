@@ -1,31 +1,7 @@
 {
-  "manifest_version": 2,
-  "core_api_major": 6,
-  "package_version": "0.1.4",
-  "id": "gp_west_duel",
   "name": "西部牛仔对决",
   "kind": "minigame",
-  "supported_systems": ["windows"],
-  "introduction": "3D 西部牛仔对决占位模板，尚未实现玩法。",
-  "entry": "game.tscn",
-  "player_counts": [
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-  ],
-  "playable": false,
-  "adapters": [],
-  "localization": {
-    "supported_locales": [
-      "zh_Hans"
-    ],
-    "fallback_locale": "zh_Hans",
-    "translations": {
-      "zh_Hans": "i18n/zh_Hans.po"
-    }
-  }
+  "package_version": "0.0.1",
+  "framework_version": "0.0.1",
+  "remark": ""
 }
