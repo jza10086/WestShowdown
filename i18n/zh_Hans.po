@@ -8,3 +8,6 @@ msgstr "西部牛仔对决"
 
 msgid "3D 西部牛仔对决占位模板，尚未实现玩法。"
 msgstr "3D 西部牛仔对决占位模板，尚未实现玩法。"
+
+msgid "package.name"
+msgstr "西部牛仔对决"

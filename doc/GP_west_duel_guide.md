@@ -6,4 +6,4 @@
 
 未带 `res://` 的源码路径以本包根目录为基准。
 
-- [M25 西部牛仔对决占位　C，当前无需代码改造](gp_west_duel_development.md)
+- [M25 西部牛仔对决占位　C，当前无需代码改造](GP_west_duel_development.md)
